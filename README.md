@@ -3,8 +3,6 @@ Address to connect: Coming Soon! (Development still somewhat in the works, but p
 
 <img width="244" height="188" alt="image" src="https://github.com/ClearAct290/RRTelnet/blob/main/start.gif?raw=true" />
 
-<video src="https://github.com/ClearAct290/RRTelnet/raw/refs/heads/main/preview.mp4" width="854" height="480" controls></video>
-
 A fully 3D, headless-server-rendered telnet shooter for regular ASCII terminals
 *and* real Commodore 64 hardware. Connect with nothing but `telnet`, or a C64
 and a modem/WiFi modem, and get a raycast 3D view, a live HUD, and real-time
@@ -14,8 +12,6 @@ multiplayer - no client install, no graphics card, no mercy.
 > document the project, the controls, and what to expect if you connect -
 > not to publish the server implementation. See [Why no code?](#why-no-code)
 > below.
-
-<video src="https://github.com/ClearAct290/RRTelnet/raw/refs/heads/main/preview.mp4" controls width="854" height="480"></video>
 
 ## What this is
 
