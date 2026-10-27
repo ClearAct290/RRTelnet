@@ -1,6 +1,6 @@
 Address to connect: Coming Soon! (Development still somewhat in the works, but pretty close to final)
 
-# Retro Recoil
+<img src="https://github.com/ClearAct290/RRTelnet/blob/main/start.gif?raw=true" width="244" height="188">
 
 A fully 3D, headless-server-rendered telnet shooter for regular ASCII terminals
 *and* real Commodore 64 hardware. Connect with nothing but `telnet`, or a C64
