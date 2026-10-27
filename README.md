@@ -13,10 +13,8 @@ multiplayer - no client install, no graphics card, no mercy.
 > document the project, the controls, and what to expect if you connect -
 > not to publish the server implementation. See [Why no code?](#why-no-code)
 > below.
-<video controls>
-  <source src="https://github.com/ClearAct290/RRTelnet/raw/refs/heads/main/preview.mp4" type="video/mp4">
-  Your browser does not support the video element.
-</video>
+
+<video src="https://github.com/ClearAct290/RRTelnet/raw/refs/heads/main/preview.mp4" controls width="854" height="480"></video>
 
 ## What this is
 
