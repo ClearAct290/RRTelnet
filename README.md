@@ -12,7 +12,7 @@ multiplayer - no client install, no graphics card, no mercy.
 > not to publish the server implementation. See [Why no code?](#why-no-code)
 > below.
 
-\
+
 ## What this is
 
 Every player who connects gets their own independent session. The server
