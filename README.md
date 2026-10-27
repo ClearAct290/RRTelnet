@@ -7,12 +7,12 @@ A fully 3D, headless-server-rendered telnet shooter for regular ASCII terminals
 and a modem/WiFi modem, and get a raycast 3D view, a live HUD, and real-time
 multiplayer - no client install, no graphics card, no mercy.
 
-> \*\*Source code is not included in this repository.\*\* This repo exists to
+> Source code is not included in this repository. This repo exists to
 > document the project, the controls, and what to expect if you connect -
-> not to publish the server implementation. See \[Why no code?](#why-no-code)
+> not to publish the server implementation. See [Why no code?](#why-no-code)
 > below.
 
-\---
+
 
 ## What this is
 
