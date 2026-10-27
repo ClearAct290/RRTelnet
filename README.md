@@ -13,7 +13,7 @@ multiplayer - no client install, no graphics card, no mercy.
 > document the project, the controls, and what to expect if you connect -
 > not to publish the server implementation. See [Why no code?](#why-no-code)
 > below.
-<video src="https://github.com/ClearAct290/RRTelnet/raw/refs/heads/main/preview.mp4" controls>
+<video src="https://github.com/ClearAct290/RRTelnet/raw/refs/heads/main/preview.mp4" controls></video>
 
 ## What this is
 
