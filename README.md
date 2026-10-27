@@ -1,7 +1,7 @@
 Address to connect: Coming Soon! (Development still somewhat in the works, but pretty close to final)
 
 
-<img width="122" height="94" alt="image" src="[https://github.com/user-attachments/assets/9f492dce-4f99-4c25-bbfc-a8b0310c6483](https://github.com/ClearAct290/RRTelnet/blob/main/start.gif?raw=true)" />
+<img width="122" height="94" alt="image" src="https://github.com/ClearAct290/RRTelnet/blob/main/start.gif?raw=true" />
 
 
 A fully 3D, headless-server-rendered telnet shooter for regular ASCII terminals
